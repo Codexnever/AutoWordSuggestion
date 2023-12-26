@@ -1,0 +1,31 @@
+
+div {
+    width: 300px; /* Adjust the width as needed */
+    margin: 20px;
+  }
+  
+  /* Styling for the input field */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  /* Styling for the suggestion list */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  li:hover {
+    background-color: #f0f0f0;
+  }
+  
